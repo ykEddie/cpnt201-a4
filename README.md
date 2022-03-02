@@ -11,6 +11,9 @@
 [Link to npm package I chose (Google Fonts)](https://github.com/nuxt-community/google-fonts-module)
  - [Specific installation documentation link](https://github.com/nuxt-community/google-fonts-module#setup)
 
+I chose this module so that I wouldn't have to stick with the same font when creating things.
+
+I also actually didn't have any problems or errors at all when adding any modules or installing/adding nuxt.
 
 ## Commits
 
@@ -76,4 +79,4 @@
   Author: Ed <edadeagbo@gmail.com>
   Date:   Tue Mar 1 20:11:09 2022 -0700
 
-    Initial commit, initial setup
+    Initial commit, initial setup# cpnt201-a4
