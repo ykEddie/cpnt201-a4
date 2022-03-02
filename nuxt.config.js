@@ -35,6 +35,7 @@ export default {
     // https://image.nuxtjs.org/getting-started/installation
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
+    '@nuxtjs/google-fonts',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
