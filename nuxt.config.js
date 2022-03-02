@@ -33,6 +33,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     // https://image.nuxtjs.org/getting-started/installation
+    // https://github.com/nuxt-community/google-fonts-module#setup
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
     '@nuxtjs/google-fonts',
