@@ -32,6 +32,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
+    // https://image.nuxtjs.org/getting-started/installation
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
   ],
@@ -39,6 +40,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
+    // https://github.com/storyblok/storyblok-nuxt#installation
     '@nuxtjs/axios',
     '@storyblok/nuxt',
   ],
