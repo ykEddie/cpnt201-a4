@@ -37,6 +37,7 @@ export default {
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
     '@nuxtjs/google-fonts',
+    '@storyblok/nuxt',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -47,6 +48,10 @@ export default {
     '@storyblok/nuxt',
   ],
 
+  storyblok: {
+    accessToken: process.env.STORYBLOK_API_KEY,
+    cacheProvider: "memory"
+  },
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
     // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
